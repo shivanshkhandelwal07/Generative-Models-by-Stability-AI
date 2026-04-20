@@ -1,4 +1,5 @@
-# Generative-Models-by-Stability-AI
+# Generative Models by Stability AI
+
 ![sample1](assets/000.jpg)
 
 ## News
@@ -388,4 +389,5 @@ example = {"jpg": x,  # this is a tensor -1...1 chw
 ```
 
 where we expect images in -1...1, channel-first format.
-#
+#   G e n e r a t i v e - M o d e l s - b y - S t a b i l i t y - A I - D i f f u s i o n - B a s e d - A I - S y s t e m s  
+ 
